@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(75, 94, 8);
+}
+
+.contents{
+    align-items: center;
+}
+
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(94, 48, 48);
+    margin: 0 auto;
+    display: grid;
+    /* grid-template-columns: repeat(8, 1fr); */
+}
+
+
+
+.box{
+    width: 83.1px;
+    font-size: 30px;
+    background-color: rgb(210, 105, 30);
+    opacity: ;
+    outline: 1px solid rgb(39, 77, 41);
+}
+
+.box8{
+    width: 100px;
+    height: 70px;
+    font-size: 30px;
+    background-color: rgb(210, 105, 30);
+    opacity: ;
+    outline: 1px solid black;
+}
